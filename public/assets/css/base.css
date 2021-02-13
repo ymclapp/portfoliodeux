@@ -132,7 +132,7 @@ input, select, textarea {
 	}
 
 		h2.alt {
-			color: #888;
+			color: lightcoral;
 		}
 
 			h2.alt strong {
@@ -401,7 +401,7 @@ input, select, textarea {
 
         #main > section.one {
             background-color: #81918E;
-            background-image: url("../../images/banner.jpg");
+            background-image: url("../../images/Coding\ on\ Beach.png");
         }
 
         #main > section.two {
