@@ -357,15 +357,15 @@ input, select, textarea {
         }
 
         #main > section.two {
-            background-color: #f5fafa;
+            background-color: lightskyblue;
         }
 
         #main > section.three {
-            background-color: #ecf1f1;
+            background-color: lightgoldenrodyellow;
         }
 
         #main > section.four {
-            background-color: #e8edec;
+            background-color: lightcoral;
         }
 
 /* Footer */
