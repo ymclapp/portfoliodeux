@@ -352,8 +352,8 @@ input, select, textarea {
         }
 
         #main > section.one {
-            background-color: #81918E;
-            background-image: url("../../images/Coding\ on\ Beach.png");
+            background-color:lightgray;
+            /* background-image: url("../../images/Coding\ on\ Beach.png"); */
         }
 
         #main > section.two {
