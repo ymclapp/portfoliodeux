@@ -43,7 +43,7 @@
 
     }
 
-    @media screen and (max-width: 736px) {
+    @media screen and (max-width: 767px) {
 
         .container {
             width: 100%;
@@ -1274,7 +1274,7 @@
 
     }
 
-    @media screen and (max-width: 736px) {
+    @media screen and (max-width: 767px) {
 
         .row {
             display: flex;
