@@ -48,8 +48,9 @@ section, article {
 
     .image.featured {
         display: block;
-        width: 1422px;
-        height: 422px;
+        width: 100%;
+        /* width: 1422px;
+        height: 422px; */
         margin: 0 0 2em 0;
     }
 
